@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset (too large for GitHub)
+data/raw/
+data/maildir/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
