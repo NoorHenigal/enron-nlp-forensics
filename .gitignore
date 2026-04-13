@@ -14,3 +14,4 @@ data/maildir/
 # IDE
 .vscode/
 data/processed/
+data/features/
